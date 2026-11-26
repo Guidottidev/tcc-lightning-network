@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar esta base de dados ou este codigo, cite como abaixo."
+title: "tcc-lightning-network: base de dados, codigo e figuras do TCC sobre a viabilidade do Bitcoin como meio de pagamento"
+version: 1.0.0
+date-released: 2026-11-26
+type: dataset
+authors:
+  - family-names: "Guidotti de Souza"
+    given-names: "Guilherme"
+    affiliation: "Fundacao Herminio Ometto (FHO)"
+repository-code: "https://github.com/Guidottidev/tcc-lightning-network"
+license: MIT
+abstract: "Material suplementar (Apendices A e B) do Trabalho de Conclusao de Curso de Ciencias Economicas sobre a viabilidade do Bitcoin como meio de pagamento: base tratada com 31 datas de referencia (31/03/2018 a 31/08/2025) de indicadores da Lightning Network (mempool.space, DeFiLlama) e do custo medio on-chain (Blockchain.com), scripts em Python e figuras. Orientador: Prof. Dr. Marco Antonio Alves de Souza Junior."
+keywords:
+  - Bitcoin
+  - Lightning Network
+  - meios de pagamento
