@@ -1,5 +1,7 @@
 # tcc-lighting-network
 
+Versao 1.0.0: corresponde ao material descrito nos apendices do TCC (31 datas de referencia, de 31/03/2018 a 31/08/2025). A branch `main` contem uma versao posterior, ampliada, que nao e a analisada no trabalho.
+
 Material suplementar (Apendices A e B) do Trabalho de Conclusao de Curso de Ciencias Economicas de Guilherme Guidotti de Souza (Fundacao Herminio Ometto - FHO), sobre indicadores publicos de infraestrutura da Lightning Network.
 
 ## Conteudo
