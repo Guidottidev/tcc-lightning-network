@@ -1,8 +1,8 @@
-# tcc-lighting-network
+# tcc-lightning-network
 
 Versao 1.0.0: corresponde ao material descrito nos apendices do TCC (31 datas de referencia, de 31/03/2018 a 31/08/2025). A branch `main` contem uma versao posterior, ampliada, que nao e a analisada no trabalho.
 
-Material suplementar (Apendices A e B) do Trabalho de Conclusao de Curso de Ciencias Economicas de Guilherme Guidotti de Souza (Fundacao Herminio Ometto - FHO), sobre indicadores publicos de infraestrutura da Lightning Network.
+Material suplementar (Apendices A e B) do Trabalho de Conclusao de Curso de Ciencias Economicas de Guilherme Guidotti de Souza (Fundacao Herminio Ometto - FHO), sobre a viabilidade do Bitcoin como meio de pagamento (custo on-chain e infraestrutura da Lightning Network).
 
 ## Conteudo
 - `data/raw/` - arquivos baixados exatamente como vieram das APIs, com `registro_coleta.csv` (data da consulta, URL, status HTTP e SHA-256 de cada arquivo).
